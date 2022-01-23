@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+    <string name="city_name">City name</string>
+    <string name="temp">%1$s \u2103</string>
+    <string name="search">search</string>
+    <string name="error_load_temp">Failed to get weather data</string>
+    <string name="error_load_city">Failed to get city data</string>
+    <string name="city_not_found">Could not find city</string>
+</resources>
